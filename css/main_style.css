@@ -382,3 +382,10 @@ h3{
 }
 
 /* Media query is Close*/
+
+/*cse-civil css*/
+
+.tablepress tfoot th, .tablepress thead th {
+    background-color: #fa0203;
+    color: #FFF;
+}
